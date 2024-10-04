@@ -1,0 +1,1 @@
+export const LOGO_URL = 'https://i.postimg.cc/9FkkBd12/chatlogo.jpg';
